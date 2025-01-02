@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .Title }}</title>
+</head>
+<body bgcolor="white">
+    <font face="Times New Roman">
+    {{ partial "header.html" . }}
+    <hr>
+    {{ block "main" . }}{{ end }}
+    <hr>
+    {{ partial "footer.html" . }}
+    </font>
+</body>
+</html>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog</title>
+    <title>aosjmi.net</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Blog</description>
+    <description>Recent content on aosjmi.net</description>
     <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Wed, 01 Jan 2025 21:34:32 +0900</lastBuildDate>
+    <language>ja</language>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>first post</title>
-      <link>http://localhost:1313/2025/01/first-post/</link>
-      <pubDate>Wed, 01 Jan 2025 21:34:32 +0900</pubDate>
-      <guid>http://localhost:1313/2025/01/first-post/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CSSなんか必要ないんだよ！ということでテーマは使わないことにした。&lt;/li&gt;&#xA;&lt;li&gt;色は変えるかも&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <title>test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;h1 id=&#34;見出し1&#34;&gt;見出し1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;見出し2&#34;&gt;見出し2&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;太字&lt;/strong&gt;&#xA;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;url&#34;&gt;リンク&lt;/a&gt;&#xA;&lt;img src=&#34;image.jpg&#34; alt=&#34;画像&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;インラインコード&lt;/code&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;コードブロック&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;引用&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;リスト&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ネスト&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;番号付きリスト&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;表&lt;/th&gt;&#xA;          &lt;th&gt;Table&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;セル&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;脚注&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;*[HTML]: Hyper Text Markup Language&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;脚注の内容&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p><i>Posted on {{ .Date.Format "January 2, 2006" }}</i></p>
+
+{{ .Content }}
+
+<p>
+    <a href="javascript:history.back()">Back</a>
+</p>
+{{ end }}

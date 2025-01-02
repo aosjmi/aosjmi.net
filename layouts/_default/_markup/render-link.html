@@ -1,8 +1,0 @@
-{{- $url := .Destination -}}
-{{- if strings.HasSuffix $url ".mp4" -}}
-<video autoplay loop muted playsinline class="gyazo">
-    <source src="{{ $url }}" type="video/mp4">
-</video>
-{{- else -}}
-<a href="{{ $url }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
-{{- end -}}

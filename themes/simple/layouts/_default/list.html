@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ range (.Paginate .Pages).Pages }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <time>{{ .Date.Format "2006-01-02" }}</time>
+      {{ with .Description }}
+        <p>{{ . }}</p>
+      {{ end }}
+      {{ with .Summary }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </article>
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+{{ end }}
