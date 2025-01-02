@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aosjmi.net</title>
+    <title>Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on aosjmi.net</description>
+    <description>Recent content on Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 01 Jan 2025 21:34:32 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:1313/2025/01/first-post/</link>
       <pubDate>Wed, 01 Jan 2025 21:34:32 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gyazo.com/d1cf3fefa490835bf32082a814389eb2&#34;&gt;&lt;img src=&#34;https://i.gyazo.com/d1cf3fefa490835bf32082a814389eb2.gif&#34; alt=&#34;Image from Gyazo&#34;&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/2025/01/first-post/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CSSなんか必要ないんだよ！ということでテーマは使わないことにした。&lt;/li&gt;&#xA;&lt;li&gt;色は変えるかも&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
