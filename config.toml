@@ -1,7 +1,7 @@
 baseURL = 'https://aosjmi.github.io'
 languageCode = 'ja-jp'
 title = 'Blog'
-
+canonifyURLs = true
 [content]
   blog = "content/posts"
 
