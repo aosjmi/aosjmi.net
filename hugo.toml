@@ -1,0 +1,5 @@
+baseURL = "http://aosjmi.net"
+languageCode = "ja-jp"
+title = "aosjmi.net"
+[markup.goldmark.renderer]
+unsafe = true
